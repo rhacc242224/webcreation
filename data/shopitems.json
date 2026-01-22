@@ -1,0 +1,91 @@
+{
+  "Shop Items": {
+    "Empanadas": [
+      {
+        "name": "Beef (Mendocinas)",
+        "price": 2.75,
+        "description": "This empanada originates from the province of Mendoza, renowned for its wine in Argentina. The filling of the empanada predominantly features minced beef, onions, and a blend of spices and flavoursome condiments.",
+        "image": "Lamb.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Chicken",
+        "price": 2.75,
+        "description": "Chicken empanadas are one of the classic empanada flavors. The main ingredients for the filling are chicken, onions, roasted peppers and a mix of spices and flavorful condiments.",
+        "image": "Chicken.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Lamb",
+        "price": 2.75,
+        "description": "This variation of the Lamb empanada offers a sophisticated fusion of savory and sweet flavours, reminiscent of well-known tastes in Latin America and also evoking the essence of Moroccan recipes.",
+        "image": "Lamb.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Ham & Cheese",
+        "price": 2.25,
+        "description": "This is a widely acknowledged classic. We all adore these empanadas! The ingredients comprise ham, a medley of assorted cheeses, and flavoursome condiments.",
+        "image": "Ham & Cheese.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Fugazzeta (Cheese & Onion)",
+        "price": 2.75,
+        "description": "This empanada flavour draws inspiration from the Fugazzeta pizza which is beloved by Argentinians! Fugazzeta is the double-crusted version of Fugazza, a renowned onion-topped pizza originating in Buenos Aires. These ampanadas are filled with cheese and onions, and topped with sweet onions.",
+        "image": "empanada-fugazzeta-2.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Corn and Cheese (Humita)",
+        "price": 2.75,
+        "description": "Another classic, empanadas inspired by Humita are quite common in Argentina. Humita (from Quechua humint'a) is a Native South American dish with roots dating back to pre-Hispanic times. Hailing from the Andes, this traditional food is found in the north region of Argentina, Bolivia, Chile, Ecuador and Peru. It consists of fresh choclo (corn) pounded into a paste, wrapped in a fresh corn husk, and slowly steamed or boiled in a pot of water. In these empanadas, we blend humita with red pepper and a medley of spices.",
+        "image": "humita.webp",
+        "category": "Empanadas"
+      },
+      {
+        "name": "Caprese",
+        "price": 2.75,
+        "description": "Inspired by the Caprese Salad, this empanada delivers delightful flavour and freshness. The Caprese salad, an Italian classic, features sliced fresh mozzarella, tomatoes, and sweet basil, seasoned with salt and olive oil. ",
+        "image": "caprese.webp",
+        "category": "Empanadas"
+      }
+
+
+    ],
+    "Chimichurri & Other Sauces": [
+      {
+        "name": "Green Chimichurri",
+        "price": 5.0,
+        "description": "This is a traditional Argentine sauce typically used to complement asado and empanadas. Various versions of the traditional recipe exist, incorporating chopped fresh vegetables, herbs, and condiments.",
+        "image": "chimi.webp",
+        "category": "Chimichurri & Other Sauces"
+      },
+      {
+        "name": "Red Chimichurri",
+        "price": 4,
+        "description": "Red Chimichurri is a popular variant that pairs wonderfully with cheese-based empanadas.",
+        "image": "redchimi.webp",
+        "category": "Chimichurri & Other Sauces"
+
+      }
+    ],
+    "Sweet Things": [
+      {
+        "name": "Mini Rogels x 3",
+        "price": 12,
+        "description": "Mini Rogel cakes are crafted from layers of crisp dough stacked with generous layers of dulce de leche, all topped off with a delectable coating of Italian meringue.",
+        "image": "minirogel.webp",
+        "category": "Sweet Things"
+      },
+      {
+        "name": "Alfajores de Maicena x 6",
+        "price": 10,
+        "description": "Alfajores de Maicena (Cornstarch) are delicately light Argentine cookies generously filled with dulce de leche. Their extra tenderness and delicacy are attributed to a substantial amount of cornstarch in the cookie dough. Finely shredded coconut coats the edges, contributing both flavor and texture to this true classic. /b An intriguing fact: the word 'alfajor' is derived from an Arabic term meaning 'filled' or 'stuffed.' As its etymological roots imply, the alfajor confection has its origins in the Middle East.",
+        "image": "alfajores.webp",
+        "category": "Sweet Things"
+
+      }
+    ]
+  }
+}

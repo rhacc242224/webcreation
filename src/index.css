@@ -1,0 +1,80 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+.testingFlex {
+    border: 0.5px solid black;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+@media (max-width: 450px) {
+    .testingFlex {
+        flex-direction: column; /* Change direction to vertical (stack items) */
+    }
+    .ulcon {
+        display: flex;
+        padding: 0px;
+        min-height: 500px;
+        max-width: 2000px;
+    }
+    .testingFlex ul {
+        max-width: 2000px;
+    }
+}
+
+.testingFlex div {
+    display: flex;
+    flex: 1;
+
+    flex-direction: column;
+}
+
+.ulcon {
+
+    display: flex;
+    padding: 0px;
+    min-height: 500px;
+}
+
+.testingFlex ul {
+    padding: 10px;
+    justify-content: left;
+}
+
+.mycard {
+    display: flex;
+    flex: 1;
+    border: 1px solid black;
+    height: 300px;
+    padding: 50px;
+}
+
+
+.itemhide {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.itemhide.hidden {
+    opacity: 0;
+    display: none;
+}
+
+
